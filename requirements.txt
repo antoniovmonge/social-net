@@ -31,3 +31,9 @@ termcolor
 Flask==2.0.1
 Flask-SQLAlchemy==2.5.1
 Jinja2==3.0.1
+Click
+gunicorn
+itsdangerous
+MarkupSafe
+SQLAlchemy
+Werkzeug
